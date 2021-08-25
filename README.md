@@ -1,0 +1,2 @@
+# Rovercrm
+Graphical overview of Invoices, Quotations, Expenses &amp; Leads is represented on Dashboard. Total paid, due &amp; overdue amount of Invoices is represented via Pie chart, Quotation converted to invoice or not- you can see the amount via a pie chart. Per month expenses cost with each category is represented via a graph. Projects, Tasks &amp; Tickets summary are also present on dashboard.
